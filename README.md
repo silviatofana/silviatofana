@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @silviatofana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-silviatofana/silviatofana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    Const SilviaTofana = {
+    lookingFor: "Front-end developer" || "Full-stack web developer", `
+    pronouns: ["she", "Her"], 
+    availability: "1 month",
+    code: [JavaScript, Bootstrap, Tailwind CSS],
+    askMeAbout: [Accountancy, Hiking, Photography, Philanthropy, ],
+    challenge: "I am honing my JavaScript",
+    funFacts: "I have 1+ years of remote work experience with devs from all over the world"
+    }
