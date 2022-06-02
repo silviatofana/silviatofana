@@ -29,5 +29,5 @@
 <br><br>
 
 
-[twitter]: [https://twitter.com/AlejandroRBenji](https://twitter.com/silviatofana)
+[twitter]: (https://twitter.com/silviatofana)](https://twitter.com/silviatofana)
 [linkedin]: www.linkedin.com/in/silvia-tofana-10b852186
