@@ -1,45 +1,42 @@
     
-<h2> Hi, I'm Silvia Tofana! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+## Hi there 👋 I am Silvia Tofana 
 
-[![Linkedin Badge](www.linkedin.com/in/silvia-tofana-10b852186/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/miss_elliev)
-[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev)
+- 🔭 I’m currently working on some personal projects
+- 👓 I’m currently looking for new opportunities
+- 👯 I’m looking to collaborate on new projects
+- 💬 Ask me about web development, 🏃 running, anime!!!
+- ⚡ Fun fact: I love to socialize, support others!
+- Get in touch ⏬
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
+## Languages and Tools:
 
-```javascript
-const silviatofana = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS, Material UI],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
-  challenge: "I am honing my React skills and picking up TypeScript",
-  funFacts: ['I have 3+ years of remote work experience with devs 
-  from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
-}
-```
-### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-<!--START_SECTION:waka-->
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Webpack" width="50px" src="https://github.com/webpack/media/blob/master/logo/icon.png"/>
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br><br>
 
-```text
-JavaScript   9 hrs 35 mins   ██████████████████████▒░░   89.37 %
-SCSS         1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-```
+  
+## Microverse Badges:
 
-<!--END_SECTION:waka-->
+<p align="center">
+<img width="150px" alt="HTML/CSS Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
+</p>
+<br><br>
 
-<p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
-<!-- BLOG-POST-LIST:START -->
-- [Upgrade your React game with TypeScript: Routes](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-routing-4c59)
-- [Upgrade your React game with TypeScript: More on Types](https://dev.to/misselliev/upgrade-your-react-game-with-typescript-more-on-types-5o8)
-- [Show off with Github&#39;s README](https://dev.to/misselliev/show-off-with-github-s-readme-40eh)
-<!-- BLOG-POST-LIST:END -->
+## Visitors:
 
-<p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+![Visitor Count](https://profile-counter.glitch.me/{AlexRS90}/count.svg)
+
+## GitHub Stats:
+
+![silviatofana github stats]()
+
+
+[twitter]: [https://twitter.com/AlejandroRBenji](https://twitter.com/silviatofana)
+[linkedin]: www.linkedin.com/in/silvia-tofana-10b852186
