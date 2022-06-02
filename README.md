@@ -29,6 +29,5 @@
 <br><br>
 
 
-![image](https://user-images.githubusercontent.com/100236377/171645146-56d868a4-76a7-4ae9-9242-dbb47fe083b0.png)
 [twitter]: [https://twitter.com/AlejandroRBenji](https://twitter.com/silviatofana)
 [linkedin]: www.linkedin.com/in/silvia-tofana-10b852186
