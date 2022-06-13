@@ -28,6 +28,51 @@
 </p>
 <br><br>
 
+🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+
+---
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  ![](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
+
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+ 
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+### You can find in me in the web 🌍
+
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](<[google.com](https://silviatofana-portfolio.vercel.app)>)
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/silviatofana)
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/silvia-tofana-10b852186/)
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/dariustofana/)
+
+<br/>
+
+---
+
+<a href="https://github.com/silviatofana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnwithalfred&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&theme=buefy&layout=compact" />
+</a>
 
 [twitter]: (https://twitter.com/silviatofana)](https://twitter.com/silviatofana)
 [linkedin]: www.linkedin.com/in/silvia-tofana-10b852186
