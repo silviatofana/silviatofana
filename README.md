@@ -69,8 +69,8 @@
 ---
 
 <a href="https://github.com/silviatofana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnwithalfred&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviatofana&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviatofana&theme=buefy&layout=compact" />
 </a>
 
 [twitter]: (https://twitter.com/silviatofana)](https://twitter.com/silviatofana)
