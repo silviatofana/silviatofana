@@ -25,6 +25,7 @@
 
 <p align="center">
 <img width="150px" alt="HTML/CSS Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
+<img width="150px" alt="JavaScript Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
 </p>
 <br><br>
 
